@@ -1,0 +1,13 @@
+#main {
+
+    display: flex;
+    align-items: center;
+}
+
+#main div {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    flex: 1;
+    font-size: 80px;
+}
